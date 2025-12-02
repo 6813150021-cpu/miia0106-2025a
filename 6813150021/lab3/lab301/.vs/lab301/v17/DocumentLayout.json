@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab3\\lab301\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58E52EB1-AACC-4579-9D73-4AB0D94B84CE}|lab301-2\\lab301-2.vcxproj|C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab3\\lab301\\lab301-2\\lab301-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58E52EB1-AACC-4579-9D73-4AB0D94B84CE}|lab301-2\\lab301-2.vcxproj|solutionrelative:lab301-2\\lab301-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F37C7C6-9AB7-426D-9B71-64F8D09A94AF}|lab301\\lab301.vcxproj|C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab3\\lab301\\lab301\\lab301.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F37C7C6-9AB7-426D-9B71-64F8D09A94AF}|lab301\\lab301.vcxproj|solutionrelative:lab301\\lab301.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab301-2.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab3\\lab301\\lab301-2\\lab301-2.cpp",
+              "RelativeDocumentMoniker": "lab301-2\\lab301-2.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab3\\lab301\\lab301-2\\lab301-2.cpp",
+              "RelativeToolTip": "lab301-2\\lab301-2.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T09:23:19.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab301.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab3\\lab301\\lab301\\lab301.cpp",
+              "RelativeDocumentMoniker": "lab301\\lab301.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab3\\lab301\\lab301\\lab301.cpp",
+              "RelativeToolTip": "lab301\\lab301.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T09:22:12.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
