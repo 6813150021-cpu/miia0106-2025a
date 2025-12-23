@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD7202B-FED6-48E9-AB1C-155AB87C7AFA}|..\\6.2\\6.2.vcxproj|C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\6.2\\6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B14C71-1445-41DE-8DF2-9E3C174FB0B7}|lab6.vcxproj|C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\lab6\\lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6B14C71-1445-41DE-8DF2-9E3C174FB0B7}|lab6.vcxproj|solutionrelative:lab6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA100CB1-5443-408E-9FA0-6AE4B6ABA3FD}|..\\6.4\\6.4.vcxproj|C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\6.4\\6.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E879C718-DF2D-4E91-A9B3-CCB559E2D2D6}|..\\6.3\\6.3.vcxproj|C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\6.3\\6.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.2.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\6.2\\6.2.cpp",
+              "RelativeDocumentMoniker": "..\\6.2\\6.2.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\6.2\\6.2.cpp",
+              "RelativeToolTip": "..\\6.2\\6.2.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwC8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:28:24.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "6.4.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\6.4\\6.4.cpp",
+              "RelativeDocumentMoniker": "..\\6.4\\6.4.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\6.4\\6.4.cpp",
+              "RelativeToolTip": "..\\6.4\\6.4.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:32:41.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "6.3.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\6.3\\6.3.cpp",
+              "RelativeDocumentMoniker": "..\\6.3\\6.3.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\6.3\\6.3.cpp",
+              "RelativeToolTip": "..\\6.3\\6.3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:29:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab6.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\lab6\\lab6.cpp",
+              "RelativeDocumentMoniker": "lab6.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\miia0106-2025a\\6813150021\\lab6\\lab6\\lab6.cpp",
+              "RelativeToolTip": "lab6.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:16:16.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
